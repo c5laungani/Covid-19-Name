@@ -46,12 +46,14 @@
 }
 
 .box{
-  width: 360px;
+  width: 500px;
   padding: 10px;
   background-color:#F4F6F7 ;
   float: left;
   border: 5px lightgray solid;
   margin: 15px;
+  margin-top: 80px;
+  margin-left: 40px;
 
 }
 
