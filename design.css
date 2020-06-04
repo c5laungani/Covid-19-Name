@@ -42,7 +42,8 @@
   width: 90%;
   margin: auto;
   background-color: lightblue;
-  min-height: 1000px;
+  min-height: 600px;
+  text-align: center;
 }
 
 .box{
@@ -54,6 +55,7 @@
   margin: 15px;
   margin-top: 80px;
   margin-left: 40px;
+  display: inline-block;
 
 }
 
